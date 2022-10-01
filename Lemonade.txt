@@ -2,5 +2,5 @@ Lemonade recipe:
 1.lemon
 2.Water
 3.Sugar
-4.Glass
-5.Mint
+4.Mint
+5.Cup
