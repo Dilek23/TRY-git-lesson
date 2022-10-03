@@ -4,3 +4,6 @@ Lemonade recipe:
 3.Sugar
 4.Mint
 5.Cup
+6.Glass
+7.İce
+
